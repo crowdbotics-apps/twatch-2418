@@ -1,0 +1,3 @@
+rootProject.name = 'twatch_2418'
+
+include ':app'
